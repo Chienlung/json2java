@@ -1,0 +1,22 @@
+{
+  "com.example.protocol": {
+    "AdResponse": {
+      "resultCode": "int",
+      "adType": "String",
+      "adMaterial": "String",
+      "image": "Image",
+      "impressionUrls": [
+        "String"
+      ],
+      "clickUrls": [
+        "String"
+      ]
+    },
+    "Image": {
+      "width": "int",
+      "height": "int",
+      "imgSrc": "String",
+      "landingUrl": "String"
+    }
+  }
+}

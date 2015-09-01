@@ -1,0 +1,17 @@
+{
+  "packageName": {
+    "classNameA": {
+      "primitiveItem": "primitiveType",
+      "classItem": "classNameB",
+      "arrayA": [
+        "primitiveType"
+      ],
+      "arrayA": [
+        "classNameB"
+      ]
+    },
+    "classNameB": {
+      "item": "itemType"
+    }
+  }
+}
