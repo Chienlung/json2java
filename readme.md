@@ -13,11 +13,11 @@ the output of the former json file. You can put output file in the appropriate p
 
 ---
 
-¸ù¾İÄæ²¨À¼Ê½ÊµÏÖÁËÒ»¸ö´úÂëÉú³ÉÆ÷£¬Ëü¿ÉÒÔ½«×Ô¶¨ÒåµÄjsonÎÄ¼ş·­Òë³Éjava bean´úÂë¡£
+æ ¹æ®é€†æ³¢å…°å¼å®ç°äº†ä¸€ä¸ªä»£ç ç”Ÿæˆå™¨ï¼Œå®ƒå¯ä»¥å°†è‡ªå®šä¹‰çš„jsonæ–‡ä»¶ç¿»è¯‘æˆjava beanä»£ç ã€‚
 
-ËùÓÃµ½µÄjsonÎÄ¼ş¸ñÊ½²»ÊÇÑÏ¸ñµÄ£¬¶øÊÇ¸ù¾İ×Ô¼ºµÄĞèÇó¶¨ÖÆµÄ¡£json¸ñÊ½µÄ¶¨Òå¼û`definition/json-format.json`, `example/AdResponse.json`
-¶¨ÒåÁËÒ»¸öÊµ¼ÊÊ¹ÓÃµÄjsonÀı×Ó£¬`example/AdResponse.java`ÊÇÆä¶ÔÓ¦µÄ´úÂëÊä³ö¡£Äã¿ÉÒÔ°ÑÊä³öÎÄ¼ş·Åµ½ºÏÊÊµÄpackageÖĞ¡£
+æ‰€ç”¨åˆ°çš„jsonæ–‡ä»¶æ ¼å¼ä¸æ˜¯ä¸¥æ ¼çš„ï¼Œè€Œæ˜¯æ ¹æ®è‡ªå·±çš„éœ€æ±‚å®šåˆ¶çš„ã€‚jsonæ ¼å¼çš„å®šä¹‰è§`definition/json-format.json`, `example/AdResponse.json`
+å®šä¹‰äº†ä¸€ä¸ªå®é™…ä½¿ç”¨çš„jsonä¾‹å­ï¼Œ`example/AdResponse.java`æ˜¯å…¶å¯¹åº”çš„ä»£ç è¾“å‡ºã€‚ä½ å¯ä»¥æŠŠè¾“å‡ºæ–‡ä»¶æ”¾åˆ°åˆé€‚çš„packageä¸­ã€‚
 
-##Ê¹ÓÃ
-###1 ±àÒë`JsonToJava.java`
-###2 ÔËĞĞ`JsonToJava jsonFileFullPathName`
+##ä½¿ç”¨
+###1 ç¼–è¯‘`JsonToJava.java`
+###2 è¿è¡Œ`JsonToJava jsonFileFullPathName`
